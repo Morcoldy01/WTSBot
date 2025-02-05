@@ -5,10 +5,10 @@ import string
 import os
 
 # --- 🔐 ТВОЙ ТОКЕН БОТА (ПОЛУЧИ В @BotFather) ---
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "7928335218:AAF7yQ5UWmld2DjP9RA7uZjWwzmQoEywKQw
 
 # --- 🔑 ID АДМИНА (Твой Telegram ID, чтобы только ты мог выдавать токены) ---
-ADMIN_ID = 123456789  # Замени на свой ID
+ADMIN_ID = 1418032947  # Замени на свой ID
 
 # --- 📝 СОЗДАЁМ БАЗУ SQLite ---
 DB_PATH = "database.db"
